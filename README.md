@@ -56,3 +56,54 @@ Tested on Python 3.12.7 with the following packages:
 ## Contributors
 
 _Add the project's authors, contact information, and links to websites or portfolios._
+
+Spatial Transcriptomics Data Analysis Platform
+
+This is a web application built with Streamlit for analyzing and visualizing spatial transcriptomics data. The app consists of two main pages: the data dashboard and the about page.
+
+Features
+
+Dashboard page: Contains three input controls for gene selection, clustering parameter settings, and visualization options, along with a data table display and various visualization charts.
+About page: Contains developer information and a summary of the spatial transcriptomics project.
+
+Project Structure
+
+qiwa6015/
+|--app.py
+|--pages/
+   --about.py
+|--requirements.txt
+|--README.md
+|--screenshots
+   --Dashboard.png
+   --About.png
+
+Installation and Running
+
+1: Clone repositories
+
+git clone https://github.com/sSanxiao/qiwa6015.git
+cd qiwa6015
+
+2: Create a virtual environment
+
+python3 -m venv spatial_env
+source spatial_env/bin/activate
+
+3: Install requirements
+
+pip3 install -r requirements.txt
+
+4: Run
+
+streamlit run app.py
+
+
+Developer: Qilu Wang(ID:sSanxiao)
+
+Citations
+If you use this code or are inspired by it, please cite:
+Spatial Transcriptomics Data Analysis Platform. GitHub Repository. https://github.com/sSanxiao/qiwa6015
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
