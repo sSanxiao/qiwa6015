@@ -61,6 +61,14 @@ Spatial Transcriptomics Data Analysis Platform
 
 This is a web application built with Streamlit for analyzing and visualizing spatial transcriptomics data. The app consists of two main pages: the data dashboard and the about page.
 
+Screenshots
+
+Dashboard page
+![Dashboard page](screenshots/Dashboard.png)
+
+About page
+![About page](screenshots/About.png)
+
 Features
 
 Dashboard page: Contains three input controls for gene selection, clustering parameter settings, and visualization options, along with a data table display and various visualization charts.
