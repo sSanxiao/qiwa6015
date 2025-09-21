@@ -81,16 +81,16 @@ About page: Contains developer information and a summary of the spatial transcri
 
 Project Structure
 
+```
 qiwa6015/
-|--app.py
-|--pages/
-   --about.py
-|--requirements.txt
-|--README.md
-|--screenshots
-   --Dashboard.png
-   --About.png
-
+├── app.py
+├── pages/
+│   └── about.py
+├── requirements.txt
+├── README.md
+└── screenshots/
+    ├── Dashboard.png
+    └── About.png
 Installation and Running
 
 1: Clone repositories
