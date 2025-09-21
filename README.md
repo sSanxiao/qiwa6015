@@ -74,7 +74,9 @@ About page
 
 Features
 
-Dashboard page: Contains three input controls for gene selection, clustering parameter settings, and visualization options, along with a data table display and various visualization charts.
+Dashboard page: Contains three input controls for gene selection, clustering parameter settings, 
+and visualization options, along with a data table display and various visualization charts.
+
 About page: Contains developer information and a summary of the spatial transcriptomics project.
 
 Project Structure
