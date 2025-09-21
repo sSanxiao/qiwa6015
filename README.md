@@ -1,6 +1,9 @@
 # PROHI Dashboard Example
 
 **Author**: [Qilu Wang]
+
+I was exempted for the DSHI course and credited, so I selected another project of mine for this assignment.
+
 <!-- As main author, do not write anything in the line below.
 The collaborator will edit the line below in GitHub -->
 **Collaborator**: Patricia
